@@ -111,7 +111,7 @@ public static class EmployeeQueriesProcedural
         
         Console.WriteLine();
         Console.WriteLine("┌───────────────────────────────────────────────────────┐");
-        Console.WriteLine($"│   {title.PadRight(52, ' ')}│");
+        Console.WriteLine($"│             {title.PadRight(52, ' ')}│");
         Console.WriteLine("└───────────────────────────────────────────────────────┘");
         Console.WriteLine();
 

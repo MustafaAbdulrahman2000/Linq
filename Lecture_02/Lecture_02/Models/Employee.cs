@@ -19,8 +19,8 @@ public class Employee
                 $"{Id}\t" +
                 $" {String.Concat(LastName, ", ", FirstName).PadRight(15, ' ')}\t" +
                 $"{HireDate.Date.ToShortDateString()}\t" +
-                $"{Gender.PadRight(10, ' ')}\t" +
-                $"{Department.PadRight(10, ' ')}\t" +
+                $"{Gender!.PadRight(10, ' ')}\t" +
+                $"{Department!.PadRight(10, ' ')}\t" +
                 $"{HasHealthInsurance}\t" +
                 $"{HasPensionPlan}\t" +
                 $"${Salary.ToString("0.00")}");

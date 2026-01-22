@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\المرحلة الانتقالية\\المحور الفرعي 2\\التطبيق\\Linq\\Lecture_02\\Lecture_02\\Lecture_02.csproj",
+      "projectUniqueName": "a:\\المرحلة الانتقالية\\المحور الفرعي 2\\التطبيق\\Linq\\Lecture_02\\Lecture_02\\Lecture_02.csproj",
       "projectName": "Lecture_02",
-      "projectPath": "A:\\المرحلة الانتقالية\\المحور الفرعي 2\\التطبيق\\Linq\\Lecture_02\\Lecture_02\\Lecture_02.csproj",
+      "projectPath": "a:\\المرحلة الانتقالية\\المحور الفرعي 2\\التطبيق\\Linq\\Lecture_02\\Lecture_02\\Lecture_02.csproj",
       "packagesPath": "C:\\Users\\Abdallah - Store\\.nuget\\packages\\",
-      "outputPath": "A:\\المرحلة الانتقالية\\المحور الفرعي 2\\التطبيق\\Linq\\Lecture_02\\Lecture_02\\obj\\",
+      "outputPath": "a:\\المرحلة الانتقالية\\المحور الفرعي 2\\التطبيق\\Linq\\Lecture_02\\Lecture_02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
