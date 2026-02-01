@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "A:\\\u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u064A\u0629\\\u0627\u0644\u0645\u062D\u0648\u0631 \u0627\u0644\u0641\u0631\u0639\u064A 2\\\u0627\u0644\u062A\u0637\u0628\u064A\u0642\\Linq\\Lecture_03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FBAC87C-C2BF-46D9-9298-DE67F9AF4E5C}|Lecture_03\\Lecture_03.csproj|a:\\\u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u064A\u0629\\\u0627\u0644\u0645\u062D\u0648\u0631 \u0627\u0644\u0641\u0631\u0639\u064A 2\\\u0627\u0644\u062A\u0637\u0628\u064A\u0642\\linq\\lecture_03\\lecture_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FBAC87C-C2BF-46D9-9298-DE67F9AF4E5C}|Lecture_03\\Lecture_03.csproj|solutionrelative:lecture_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FBAC87C-C2BF-46D9-9298-DE67F9AF4E5C}|Lecture_03\\Lecture_03.csproj|a:\\\u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u064A\u0629\\\u0627\u0644\u0645\u062D\u0648\u0631 \u0627\u0644\u0641\u0631\u0639\u064A 2\\\u0627\u0644\u062A\u0637\u0628\u064A\u0642\\linq\\lecture_03\\lecture_03\\extensions\\employeequeryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FBAC87C-C2BF-46D9-9298-DE67F9AF4E5C}|Lecture_03\\Lecture_03.csproj|solutionrelative:lecture_03\\extensions\\employeequeryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D14E6FB-CE0D-5641-0005-085CA4E4527D}|Lecture_03\\Lecture_03.csproj|a:\\\u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u064A\u0629\\\u0627\u0644\u0645\u062D\u0648\u0631 \u0627\u0644\u0641\u0631\u0639\u064A 2\\\u0627\u0644\u062A\u0637\u0628\u064A\u0642\\linq\\lecture_03\\lecture_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D14E6FB-CE0D-5641-0005-085CA4E4527D}|Lecture_03\\Lecture_03.csproj|solutionrelative:lecture_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -156,22 +152,9 @@
               "RelativeDocumentMoniker": "Lecture_03\\Program.cs",
               "ToolTip": "A:\\\u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u064A\u0629\\\u0627\u0644\u0645\u062D\u0648\u0631 \u0627\u0644\u0641\u0631\u0639\u064A 2\\\u0627\u0644\u062A\u0637\u0628\u064A\u0642\\Linq\\Lecture_03\\Lecture_03\\Program.cs*",
               "RelativeToolTip": "Lecture_03\\Program.cs*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAmwCQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T08:22:27.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeQueryExtensions.cs",
-              "DocumentMoniker": "A:\\\u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u064A\u0629\\\u0627\u0644\u0645\u062D\u0648\u0631 \u0627\u0644\u0641\u0631\u0639\u064A 2\\\u0627\u0644\u062A\u0637\u0628\u064A\u0642\\Linq\\Lecture_03\\Lecture_03\\Extensions\\EmployeeQueryExtensions.cs",
-              "RelativeDocumentMoniker": "Lecture_03\\Extensions\\EmployeeQueryExtensions.cs",
-              "ToolTip": "A:\\\u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u064A\u0629\\\u0627\u0644\u0645\u062D\u0648\u0631 \u0627\u0644\u0641\u0631\u0639\u064A 2\\\u0627\u0644\u062A\u0637\u0628\u064A\u0642\\Linq\\Lecture_03\\Lecture_03\\Extensions\\EmployeeQueryExtensions.cs",
-              "RelativeToolTip": "Lecture_03\\Extensions\\EmployeeQueryExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T08:33:29.763Z",
+              "WhenOpened": "2026-01-22T18:49:48.016Z",
               "EditorCaption": ""
             }
           ]

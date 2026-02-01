@@ -5,18 +5,18 @@ var employees = EmployeeRepository.LoadEmployees();
 
 // Select Examples
 
-List<string> words = new() { "i", "love", "asp.net", "core" };
+//List<string> words = new() { "i", "love", "asp.net", "core" };
 
-var upperWords = SelectExtensions.RunFirstSelectQuery(words);
+//var upperWords = SelectExtensions.RunFirstSelectQuery(words);
 
-upperWords.Print("Capitalized Words");
+//upperWords.Print("Capitalized Words");
 
 
-List<int> numbers = new() { 2, 3, 5, 7 };
+//List<int> numbers = new() { 2, 3, 5, 7 };
 
-var powers = SelectExtensions.RunSecondSelectQuery(numbers);
+//var powers = SelectExtensions.RunSecondSelectQuery(numbers);
 
-powers.Print("Power Of Numbers");
+//powers.Print("Power Of Numbers");
 
 
 var employeesWithSkillsCount = SelectExtensions.RunThirdSelectQuery(employees);
@@ -25,23 +25,23 @@ employeesWithSkillsCount.Print("Customized Employees Data");
 
 // SelectMany Examples
 
-string[] sentences = {
-                "I love asp.net core",
-                "I like sql server also",
-                "in general i love programming"
-            };
+//string[] sentences = {
+//                "I love asp.net core",
+//                "I like sql server also",
+//                "in general i love programming"
+//            };
 
-var separatedWord = SelectManyExtensions.RunFirstSelectManyQuery(sentences);
+//var separatedWord = SelectManyExtensions.RunFirstSelectManyQuery(sentences);
 
-separatedWord.Print("Separated Words");
+//separatedWord.Print("Separated Words");
 
-var customizedEmployeesDataUsingMS = SelectManyExtensions.RunSecondSelectManyQuery(employees);
+//var customizedEmployeesDataUsingMS = SelectManyExtensions.RunSecondSelectManyQuery(employees);
 
-customizedEmployeesDataUsingMS.Print("Customized Employees Data Using Method Syntax");
+//customizedEmployeesDataUsingMS.Print("Customized Employees Data Using Method Syntax");
 
-var customizedEmployeesDataUsingQS = SelectManyExtensions.RunThirdSelectManyQuery(employees);
+//var customizedEmployeesDataUsingQS = SelectManyExtensions.RunThirdSelectManyQuery(employees);
 
-customizedEmployeesDataUsingQS.Print("Customized Employees Data Using Query Syntax");
+//customizedEmployeesDataUsingQS.Print("Customized Employees Data Using Query Syntax");
 
 // Zip Examples
 
@@ -52,6 +52,6 @@ var colors = ZipExtensions.RunFirstZipQuery(colorName, colorHEX);
 
 colors.Print("Colors [name - hex]");
 
-var first3EmployeesWithLast3Employees = ZipExtensions.RunSecondZipQuery(employees.ToArray());
+//var first3EmployeesWithLast3Employees = ZipExtensions.RunSecondZipQuery(employees.ToArray());
 
-first3EmployeesWithLast3Employees.Print("First 3 Employees With Last 3 Employees");
+//first3EmployeesWithLast3Employees.Print("First 3 Employees With Last 3 Employees");

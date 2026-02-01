@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "A:\\\u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u064A\u0629\\\u0627\u0644\u0645\u062D\u0648\u0631 \u0627\u0644\u0641\u0631\u0639\u064A 2\\\u0627\u0644\u062A\u0637\u0628\u064A\u0642\\Linq\\Lecture_01\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{713077D4-3648-33D2-BA8A-482F21A4714B}|Lecture_01\\Lecture_01.csproj|a:\\\u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u064A\u0629\\\u0627\u0644\u0645\u062D\u0648\u0631 \u0627\u0644\u0641\u0631\u0639\u064A 2\\\u0627\u0644\u062A\u0637\u0628\u064A\u0642\\linq\\lecture_01\\lecture_01\\services\\purevsimpureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713077D4-3648-33D2-BA8A-482F21A4714B}|Lecture_01\\Lecture_01.csproj|solutionrelative:lecture_01\\services\\purevsimpureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713077D4-3648-33D2-BA8A-482F21A4714B}|Lecture_01\\Lecture_01.csproj|a:\\\u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u064A\u0629\\\u0627\u0644\u0645\u062D\u0648\u0631 \u0627\u0644\u0641\u0631\u0639\u064A 2\\\u0627\u0644\u062A\u0637\u0628\u064A\u0642\\linq\\lecture_01\\lecture_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713077D4-3648-33D2-BA8A-482F21A4714B}|Lecture_01\\Lecture_01.csproj|solutionrelative:lecture_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PureVsImpureService.cs",
+              "DocumentMoniker": "A:\\\u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u064A\u0629\\\u0627\u0644\u0645\u062D\u0648\u0631 \u0627\u0644\u0641\u0631\u0639\u064A 2\\\u0627\u0644\u062A\u0637\u0628\u064A\u0642\\Linq\\Lecture_01\\Lecture_01\\Services\\PureVsImpureService.cs",
+              "RelativeDocumentMoniker": "Lecture_01\\Services\\PureVsImpureService.cs",
+              "ToolTip": "A:\\\u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u064A\u0629\\\u0627\u0644\u0645\u062D\u0648\u0631 \u0627\u0644\u0641\u0631\u0639\u064A 2\\\u0627\u0644\u062A\u0637\u0628\u064A\u0642\\Linq\\Lecture_01\\Lecture_01\\Services\\PureVsImpureService.cs*",
+              "RelativeToolTip": "Lecture_01\\Services\\PureVsImpureService.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA4wBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:37:17.058Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -138,6 +160,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\\u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u064A\u0629\\\u0627\u0644\u0645\u062D\u0648\u0631 \u0627\u0644\u0641\u0631\u0639\u064A 2\\\u0627\u0644\u062A\u0637\u0628\u064A\u0642\\Linq\\Lecture_01\\Lecture_01\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture_01\\Program.cs",
+              "ToolTip": "A:\\\u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u064A\u0629\\\u0627\u0644\u0645\u062D\u0648\u0631 \u0627\u0644\u0641\u0631\u0639\u064A 2\\\u0627\u0644\u062A\u0637\u0628\u064A\u0642\\Linq\\Lecture_01\\Lecture_01\\Program.cs*",
+              "RelativeToolTip": "Lecture_01\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:36:08.215Z",
+              "EditorCaption": ""
             }
           ]
         }
